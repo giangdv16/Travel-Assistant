@@ -13,6 +13,6 @@ Tools used:
 Instructions:
 
 1.-Have the open Ai token at the same folder as the file.
-2.-Execute the file Despliegue.py
+2.-Execute the file TRAVELASSISTANT.py
 
 
