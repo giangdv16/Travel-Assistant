@@ -1,0 +1,18 @@
+Requirements:
+
+1.- Have an openai api.
+
+
+Tools used:
+
+1.- Wiki API
+2.- Api Meteo
+3.- Dall-e-3 in order to generate a reference picture.
+
+
+Instructions:
+
+1.-Have the open Ai token at the same folder as the file.
+2.-Execute the file Despliegue.py
+
+
