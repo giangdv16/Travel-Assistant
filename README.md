@@ -8,3 +8,8 @@ This tool allows the user to perform certain queries regarding the destination t
 -Climate and temperature
 
 - It also allows users to generate a reference map using image generation via dall-e.
+
+# Getting Started
+Prerequisites
+Python 3.10 or higher
+
